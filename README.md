@@ -2,4 +2,4 @@
 
 go get github.com/AlexBrochu/golang-package-tuto@version
 
-replace version with the tag version found in this repo 
+replace version with the tag version found in this repo https://github.com/AlexBrochu/golang-package-tuto
